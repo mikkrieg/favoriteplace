@@ -1,0 +1,22 @@
+body {
+  background-color: #FB23FF;
+  text-align: center;
+}
+
+li {
+  padding-left: 100px;
+}
+
+img {
+  width: 20%;
+  height: 10%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 60px;
+}
+
+ul {
+  list-style-type: none;
+}
+
