@@ -29,6 +29,8 @@ city are also provided. Links to sites about each country are also available abo
 
 [MIT](https://opensource.org/licenses/MIT)
 
+Copyright(c) 2020 Mikey Kriegel
+
 ## Contact Information
 
-I'm available to contact at mikkrieg@gmail.com
+Mikey Kriegel: mikkrieg@gmail.com
