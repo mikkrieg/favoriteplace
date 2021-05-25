@@ -1,6 +1,6 @@
 # _My Favorite Places_
 
-#### _{Brief description of application}_
+#### _This is a webpage of my favorite places_
 
 #### By _**Mikey Kriegel**_
 
@@ -12,7 +12,7 @@
 ## Description
 
 _This webpage provides the names of all my favorite countries and the cities within them. Pictures of each
-city are also provided. Links to sites about each country are also available above each image. _
+city are also provided. Links to sites about each country are also available above each image._
 
 ## Setup/Installation Requirements
 
